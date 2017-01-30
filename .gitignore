@@ -1,4 +1,4 @@
 *.pyc
 *~
 *sublime*
-
+dist/*.tar.gz

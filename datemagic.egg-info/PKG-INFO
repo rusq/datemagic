@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: datemagic
+Version: 0.1
+Summary: Convenience functions to work with date types
+Home-page: https://www.example.com/
+Author: Rustam Gilyazov
+Author-email: gilyazov@gmail.com
+License: BSD License
+Description: ==========
+        Date Magic
+        ==========
+        
+        Datemagic module provides covenience function for operation with date and time
+        types.
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - BetaEnvironment :: Plugins
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries
