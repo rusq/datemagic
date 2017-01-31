@@ -1,1 +1,1 @@
-from datemagic import *
+from .datemagic import *
