@@ -1,3 +1,7 @@
+.. image:: https://img.shields.io/aur/license/yaourt.svg
+      :target: https://opensource.org/licenses/GPL-3.0
+      :alt: License
+
 ==========
 Date Magic
 ==========
@@ -8,7 +12,11 @@ time types.
 Install the module the usual way using ``pip`` to start using it.
 
 Example
-  Splitting year in 30-day chunks::
+-------
+
+Splitting year in 30-day chunks
+
+.. code:: python
 
     >>> import datetime
     >>> import datemagic
