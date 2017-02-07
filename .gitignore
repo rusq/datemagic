@@ -2,3 +2,4 @@
 *~
 *sublime*
 dist/*.tar.gz
+docs/_build/*
